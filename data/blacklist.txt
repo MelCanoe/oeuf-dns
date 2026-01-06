@@ -1,0 +1,50 @@
+# CDN
+akamai
+cloudflare
+cloudfront
+fastly
+edgecast
+incapsula
+stackpath
+keycdn
+bunnycdn
+
+# Cloud providers
+amazonaws
+azure
+microsoft
+googlecloud
+gcp
+oracle.cloud
+digitalocean
+linode
+vultr
+ovh.net
+hetzner
+
+# Hosting
+godaddy
+namecheap
+bluehost
+hostgator
+wpengine
+squarespace
+wix
+shopify
+
+# Email services
+google.com
+outlook
+hotmail
+mailchimp
+sendgrid
+mailgun
+
+# Analytics/Ads
+googleadservices
+doubleclick
+googlesyndication
+facebook
+fbcdn
+twitter
+tiktok
